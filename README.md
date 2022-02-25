@@ -6,13 +6,18 @@
 ### <p align="center"> Hello There, I'm Gricelle! 👋 </p>
 <br>
 
-💪 **My skills & experience:**<br>
-- Research in Embedded Systems Security <br>
-- Full Stack Development <br>
-- Robotics: 3-D Simulation Localization and Mapping (SLAM) using 3D scanner, Li-DAR, ultrasonic sensors, and high-resolution spatial data <br>
-- Python <br>
-- Linux: Debian & Ubuntu-Based<br>
-- <br>
+💪 **About Me:**<br>
+● 👩‍🎓 I'm a student at FIU pursuing my masters in Computer Engineer.
+●	🔬 I'm a Graduate Research Student focusing on Embedded Systems Security <br>
+● 💻 I am an Engineer Intern at Entopsis, I work on full stack development and quality control. <br>
+● 😎 I am a member of Upsilon Pi Epsilon (UPE), the largest student organization for technology at FIU!!! <br>
+● 🤖 As a UPE member, I participate in the CODE program and ROBOTICS program, as well as their Hackathons. <br>
+● 🚀 I 
+
+
+💪 **My skills & experience:** <br>
+● Some of the programming languages I know include: <br>
+- Python, C++, Assembly, MATLAB , JavaScript, HTML.  <br>
 
 🚀 **See my other work here:**
 - [Devpost Account](https://devpost.com/gpere190?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
