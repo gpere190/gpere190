@@ -18,7 +18,7 @@
 
 💪 **My skills & experience:** <br>
 ● Some of the programming languages I know include: <br>
-- Python, C++, Assembly, MATLAB , JavaScript, HTML.  <br>
+- Python, C++, Assembly, MATLAB , JavaScript, HTML. <br>
 
 
 
