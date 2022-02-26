@@ -12,13 +12,13 @@
 ● 💻 I'm an Intern at Entopsis, working with full stack development and quality control. <br>
 ● 🤖 I'm a member of Upsilon Pi Epsilon (UPE), CODE + Robotics programs! <br>
 ● 😎 I enjoy Hackathons! <br>
-● 🚀 I'm pursing a job in Software Development and/or Research & Development!! <br>
 
 
 
-💪 **My skills & experience:** <br>
-● Some of the programming languages I know include: <br>
-- Python, C++, Assembly, MATLAB , JavaScript, HTML. <br>
+
+💪 **Languages & Technologies:** <br>
+● Python, C++, Assembly, MATLAB , JavaScript, HTML <br>
+● Linux, Git, Google Colab, Google Apps Script, SolidWorks, MS Office, Keras, TensorFlow, Lidar <br>
 
 
 
