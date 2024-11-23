@@ -28,7 +28,7 @@
 
 
 📫 **Connect with me:**<br>
-- 📧 Email - Gpere190@fiu.edu <br>
+- 📧 Email - Gperez8533@gmail.com <br>
 - 💼 [LinkedIn](https://www.linkedin.com/in/gricelle-perez-133266aa/)
 - ⚔️ Discord - Geep969 <br>
 <br>
